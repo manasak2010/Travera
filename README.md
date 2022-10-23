@@ -4,9 +4,9 @@
 We will use a two-faced camera or two individual cameras facing towards opposite directions inside the desk of a car  that captures images as desired by the driver or user and stores them in the cloud for later use. It may essentially be used for blogging and hands-free video-making while driving, hence reducing accidents.  
 
 In this project we mainly focus on three phases:
-a) Capturing videos and images with the attached camera.
-b) Automation of importing videos and images to the cloud (firebase).
-c) Automating the machine to compile the images and videos to produce a movie.
+1. Capturing videos and images with the attached camera.
+2. Automation of importing videos and images to the cloud (firebase).
+3. Automating the machine to compile the images and videos to produce a movie.
 
 PHASE ONE:
 - In this phase, images, and videos are captured by the camera attached on the desk of the car.
