@@ -1,4 +1,6 @@
+import pyrebase
 #INITIALIZING FIREBASE
+
 config = {
   "apiKey": "AIzaSyDFwKxLVYhkgJYIN7EsqO5I8_xPJW0DjAI",
   "authDomain": "iiithackathon.firebaseapp.com",
