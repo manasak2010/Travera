@@ -1,3 +1,5 @@
+#INITIALIZING FIREBASE AT START
+
 import cv2
 cam = cv2.VideoCapture(0)  #cam1
 
