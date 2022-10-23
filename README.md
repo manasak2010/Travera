@@ -1,5 +1,5 @@
 # Travera
-A camera inside your car for better travel vlogging and image capturing.
+
 
 We will use a two-faced camera or two individual cameras facing towards opposite directions inside the desk of a car  that captures images as desired by the driver or user and stores them in the cloud for later use. It may essentially be used for blogging and hands-free video-making while driving, hence reducing accidents.  
 
